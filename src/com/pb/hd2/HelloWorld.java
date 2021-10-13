@@ -1,4 +1,4 @@
-package com.pb;
+package com.pb.hd2;
 
 public class HelloWorld {
     public static void main(String[] args) {
